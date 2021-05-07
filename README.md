@@ -1,1 +1,1 @@
-# MDCommentsCapability
+# CommentsCapability
